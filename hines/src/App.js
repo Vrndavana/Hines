@@ -7,7 +7,7 @@ import Experience from './Components/Experience';
 import About from './Components/About';
 
 // Styles
-import {Header, Nav} from './Components/styled'
+import {Nav} from './Components/styled'
 
 
 // Default Page - Home Componant = Path='/' 

@@ -16,7 +16,12 @@
   <Route exact path='/About'>           <About/>          </Route>
 </Switch>
 
-
+  // Taken out of App.js to make each page have it's own Navigation 
+        {/* <Nav>
+         <Link to='/Skills'> Skills</Link>
+         <Link to='/Experience'>Experience </Link>
+         <Link to='/About'>About</Link>
+        </Nav> */}
 
 
 

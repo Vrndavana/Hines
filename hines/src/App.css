@@ -66,6 +66,10 @@
   border-bottom-right-radius: 30%;
   border-bottom-left-radius: 30%;
 }
+.Project-Button{
+  color:Black;
+  background-color: rgb(65, 64, 64);
+}
 .links{
   width:100%;
   display:flex;

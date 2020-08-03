@@ -19,7 +19,7 @@ function App() {
           <Route exact path='/Skills'>          <Skills/>         </Route>   
           <Route exact path='/Experience'>      <Experience/>     </Route>
           <Route exact path='/About'>           <About/>          </Route>
-          <Route exact path='/Projects'>       <Projects/>       </Route>
+          <Route exact path='/Projects'>        <Projects/>       </Route>
         </Switch>
       </BrowserRouter>
     </div>

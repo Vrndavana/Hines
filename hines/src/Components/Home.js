@@ -9,7 +9,8 @@ function Home() {
 
         <div>
            <Nav>
-             <Link to='/Skills'> Skills</Link>
+             <Link to='/'>  Home </Link>
+             <Link to='/Skills'>  Skills </Link>
              <Link to='/Experience'>Experience </Link>
              <Link to='/About'>About</Link>
            </Nav>
@@ -20,8 +21,9 @@ function Home() {
                 <img src={Me} alt="A handsome chap" className='Me'/>
                 <div>
                  <h1 class='Hello'> "Hello World" </h1>
+                 <h2>Dan Hines</h2>
                  <h3> Welcome to my Software Engineer Portfolio. </h3>
-                 <p>Please remember to equipt your hard hat!</p>
+                 <p> Full-Stack Web Dev | Tech enthusiath   </p>
 
                     <button class="Project-Button">
                      <Link to='/Projects'> Projects </Link>

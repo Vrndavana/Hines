@@ -7,12 +7,12 @@ function About() {
 
 return(
   <div>
-    <Nav>
-     <Link to='/'>  Home </Link>
-     <Link to='/Skills'>  Skills </Link>
-     <Link to='/Experience'>Experience </Link>
-     <Link to='/About'>About</Link>
-    </Nav>
+           <Nav>
+             <Link to='/'>           HOME       </Link>
+             <Link to='/Skills'>     SKILLS     </Link>
+             <Link to='/Experience'> EXPERIENCE </Link>
+             <Link to='/About'>      ABOUT      </Link>
+           </Nav>
     
     
     

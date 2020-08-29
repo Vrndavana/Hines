@@ -20,42 +20,70 @@ return(
 
   <div class='Proj-Div'>
     
-    <div class="ProjB"> 
-      <h1>Projects</h1> 
-    </div>
+ 
+    <div class="Flex">
 
     <div class='Proj'>
       <img src={Proj1} alt="Game of Life" className='Pix'/>
-      <div>
+      <div class="ProjI">
        <h1> "Game of Life" </h1>
        <h3> Welcome to my Software Engineer Portfolio. </h3>
        <p>Please remember to equipt your hard hat!</p>
-       <h4>This Site Is Under Construction</h4>
 
       </div>
     </div>
 
     <div class='Proj'>
       <img src={Proj2} alt="Game of Life" className='Pix'/>
-      <div>
-       <h1> "Bridges to prosperity" </h1>
+      <div class="ProjI">
+       <h1> "Game of Life" </h1>
        <h3> Welcome to my Software Engineer Portfolio. </h3>
        <p>Please remember to equipt your hard hat!</p>
-       <h4>This Site Is Under Construction</h4>
+
       </div>
     </div>
 
     <div class='Proj'>
       <img src={Proj3} alt="Game of Life" className='Pix'/>
-      <div>
-       <h1> "Plant Quencher" </h1>
+      <div class="ProjI">
+       <h1> "Game of Life" </h1>
        <h3> Welcome to my Software Engineer Portfolio. </h3>
-       <p>  Please remember to equipt your hard hat!   </p>
-       <h4> This Site Is Under Construction</h4>
+       <p>Please remember to equipt your hard hat!</p>
+
       </div>
     </div>
 
+    <div class='Proj'>
+      <img src={Proj1} alt="Game of Life" className='Pix'/>
+      <div class="ProjI">
+       <h1> "Game of Life" </h1>
+       <h3> Welcome to my Software Engineer Portfolio. </h3>
+       <p>Please remember to equipt your hard hat!</p>
 
+      </div>
+    </div>
+
+    <div class='Proj'>
+      <img src={Proj2} alt="Game of Life" className='Pix'/>
+      <div class="ProjI">
+       <h1> "Game of Life" </h1>
+       <h3> Welcome to my Software Engineer Portfolio. </h3>
+       <p>Please remember to equipt your hard hat!</p>
+
+      </div>
+    </div>
+
+    <div class='Proj'>
+      <img src={Proj3} alt="Game of Life" className='Pix'/>
+      <div class="ProjI">
+       <h1> "Game of Life" </h1>
+       <h3> Welcome to my Software Engineer Portfolio. </h3>
+       <p>Please remember to equipt your hard hat!</p>
+
+      </div>
+    </div>
+
+    </div>
 
 
 

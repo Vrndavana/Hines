@@ -43,6 +43,12 @@
  height:80vh;
  display:flex;
  background-color: rgb(231, 231, 231);
+ background-image:url('./Images/code.jpg');
+ background-repeat:no-repeat;
+ background-size:cover;
+ background-position:center;
+ background-attachment:fixed;
+ color:white;
 }
 
 .Hello{
@@ -72,18 +78,30 @@
  /* Project Styles */
 .Proj-Div {
   padding: 5% auto;
-  display:wrap;
-  justify-content: center;
-  background-color: lightgrey;
+  background-color: rgb(168, 172, 169);
+ }
+ .Flex{
+   width:100%;
+   display:flex;
+   flex-wrap: wrap;
  }
  .Proj {
    padding: 1% 0;
-  margin: 5% 10%;
-  width: 80%;
+  margin: 1% 1%;
+  width: 30%;
   display:flex;
+  flex-direction: column;
   justify-content: space-around;
   border-bottom: 3px solid grey;
+  background-color: rgba(193, 236, 192, 0.822);
  }
+.ProjI{
+  width:100%;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
  .ProjB {
    padding: 1% 0;
   margin: 0% 10%;
@@ -91,6 +109,13 @@
   display:flex;
   justify-content: space-around;
   border-bottom: 3px solid grey;
+}
+
+.ProjT{
+  padding: 1% 20%;
+  border-radius:50%;
+  background-color: rgb(61, 61, 61);
+  color:white;
 }
 
 .Pix{

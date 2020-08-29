@@ -32,35 +32,35 @@ function Skills() {
         <div class="S-Info">
 
           <div class="Sdiv">
-           <h1 class='Skillz'> <a id="Software"> Software </a> </h1>
+           <h1 class='Skillz'> <a id="Software" href="Software"> Software </a> </h1>
            <h3> Welcome to my Software Engineer Portfolio. </h3>
            <p>Please remember to equipt your hard hat!</p>
            <h4>This Site Is Under Construction</h4>    
           </div>
 
           <div class="Sdiv">
-           <h1 class='Skillz'> <a id="Front-End"> Front-End </a> </h1>
+           <h1 class='Skillz'> <a id="Front-End" href="Front-End"> Front-End </a> </h1>
            <h3> Welcome to my Software Engineer Portfolio. </h3>
            <p>Please remember to equipt your hard hat!</p>
            <h4>This Site Is Under Construction</h4>    
           </div>
 
           <div class="Sdiv">
-           <h1 class='Skillz'> <a id="Back-End"> Back-End </a> </h1>
+           <h1 class='Skillz'> <a id="Back-End" href="Back-End"> Back-End </a> </h1>
            <h3> Welcome to my Software Engineer Portfolio. </h3>
            <p>Please remember to equipt your hard hat!</p>
            <h4>This Site Is Under Construction</h4>    
           </div>
 
           <div class="Sdiv">
-           <h1 class='Skillz'> <a id="Audio"> Audio </a> </h1>
+           <h1 class='Skillz'> <a id="Audio" href="Audio"> Audio </a> </h1>
            <h3> Welcome to my Software Engineer Portfolio. </h3>
            <p>Please remember to equipt your hard hat!</p>
            <h4>This Site Is Under Construction</h4>    
           </div>
 
           <div class="Sdiv">
-           <h1 class='Skillz'> <a id="Hardware"> Hardware </a> </h1>
+           <h1 class='Skillz'> <a id="Hardware" href="Hardware"> Hardware </a> </h1>
            <h3> Welcome to my Software Engineer Portfolio. </h3>
            <p>Please remember to equipt your hard hat!</p>
            <h4>This Site Is Under Construction</h4>    

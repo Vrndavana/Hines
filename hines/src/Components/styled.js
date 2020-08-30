@@ -8,7 +8,7 @@ import styled from 'styled-components';
 export const Nav = styled.nav`
   display: flex;
   justify-content: space-around;
-  background-color: rgba(50, 085, 49, 0.962);
+  background-color: rgba(78,90,66);
   border-bottom:3px solid black;
   color: white;
   padding: 1% 20%;

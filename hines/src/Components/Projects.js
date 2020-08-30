@@ -20,75 +20,120 @@ return(
 
   <div class='Proj-Div'>
     
- 
     <div class="Flex">
 
     <div class='Proj'>
       <img src={Proj1} alt="Game of Life" className='Pix'/>
       <div class="ProjI">
-       <h1> "Game of Life" </h1>
-       <h3> Welcome to my Software Engineer Portfolio. </h3>
-       <p>Please remember to equipt your hard hat!</p>
-
+       <h2 class="ProjIH"> Game of Life </h2>
+       <span> JS | HTML | CSS </span>
+       <p> Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio. 
+         Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio</p>
+       <section class ="Proj-Buttons"> 
+        <button> Github </button>
+        <button> Learn More </button>
+        <button> Visit Site </button>  
+       </section>
       </div>
     </div>
 
     <div class='Proj'>
       <img src={Proj2} alt="Game of Life" className='Pix'/>
       <div class="ProjI">
-       <h1> "Game of Life" </h1>
-       <h3> Welcome to my Software Engineer Portfolio. </h3>
-       <p>Please remember to equipt your hard hat!</p>
-
+       <h2 class="ProjIH"> Game of Life </h2>
+       <span> JS | HTML | CSS </span>
+       <p> Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio. 
+         Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio</p>
+       <section class ="Proj-Buttons"> 
+        <button> Github </button>
+        <button> Learn More </button>
+        <button> Visit Site </button>  
+       </section>
       </div>
     </div>
 
     <div class='Proj'>
       <img src={Proj3} alt="Game of Life" className='Pix'/>
       <div class="ProjI">
-       <h1> "Game of Life" </h1>
-       <h3> Welcome to my Software Engineer Portfolio. </h3>
-       <p>Please remember to equipt your hard hat!</p>
-
+       <h2 class="ProjIH"> Game of Life </h2>
+       <span> JS | HTML | CSS </span>
+       <p> Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio. 
+         Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio</p>
+       <section class ="Proj-Buttons"> 
+        <button> Github </button>
+        <button> Learn More </button>
+        <button> Visit Site </button>  
+       </section>
       </div>
     </div>
 
     <div class='Proj'>
       <img src={Proj1} alt="Game of Life" className='Pix'/>
       <div class="ProjI">
-       <h1> "Game of Life" </h1>
-       <h3> Welcome to my Software Engineer Portfolio. </h3>
-       <p>Please remember to equipt your hard hat!</p>
-
+       <h2 class="ProjIH"> Game of Life </h2>
+       <span> JS | HTML | CSS </span>
+       <p> Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio. 
+         Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio</p>
+       <section class ="Proj-Buttons"> 
+        <button> Github </button>
+        <button> Learn More </button>
+        <button> Visit Site </button>  
+       </section>
       </div>
     </div>
 
     <div class='Proj'>
       <img src={Proj2} alt="Game of Life" className='Pix'/>
       <div class="ProjI">
-       <h1> "Game of Life" </h1>
-       <h3> Welcome to my Software Engineer Portfolio. </h3>
-       <p>Please remember to equipt your hard hat!</p>
-
+       <h2 class="ProjIH"> Game of Life </h2>
+       <span> JS | HTML | CSS </span>
+       <p> Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio.         
+         Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio </p>
+       <section class ="Proj-Buttons"> 
+        <button> Github </button>
+        <button> Learn More </button>
+        <button> Visit Site </button>  
+       </section>
       </div>
     </div>
 
     <div class='Proj'>
       <img src={Proj3} alt="Game of Life" className='Pix'/>
       <div class="ProjI">
-       <h1> "Game of Life" </h1>
-       <h3> Welcome to my Software Engineer Portfolio. </h3>
-       <p>Please remember to equipt your hard hat!</p>
-
+       <h2 class="ProjIH"> Game of Life </h2>
+       <span> JS | HTML | CSS </span>
+       <p> Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio.         
+         Welcome to my Software Engineer Portfolio.
+         Welcome to my Software Engineer Portfolio
+         Welcome to my Software Engineer Portfolio. </p>
+       <section class ="Proj-Buttons"> 
+        <button> Github </button>
+        <button> Learn More </button>
+        <button> Visit Site </button>  
+       </section>
       </div>
     </div>
 
+
+
     </div>
-
-
-
   </div>
-
 </div>
 )}
 

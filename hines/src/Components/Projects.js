@@ -43,7 +43,7 @@ return(
     <div class='Proj'>
       <img src={Proj2} alt="Game of Life" className='Pix'/>
       <div class="ProjI">
-       <h2 class="ProjIH"> Game of Life </h2>
+       <h2 class="ProjIH"> Bridges To Prosperity </h2>
        <span> JS | HTML | CSS </span>
        <p> Welcome to my Software Engineer Portfolio.
          Welcome to my Software Engineer Portfolio.
@@ -61,7 +61,7 @@ return(
     <div class='Proj'>
       <img src={Proj3} alt="Game of Life" className='Pix'/>
       <div class="ProjI">
-       <h2 class="ProjIH"> Game of Life </h2>
+       <h2 class="ProjIH"> Plant Quencher </h2>
        <span> JS | HTML | CSS </span>
        <p> Welcome to my Software Engineer Portfolio.
          Welcome to my Software Engineer Portfolio.

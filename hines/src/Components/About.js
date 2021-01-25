@@ -18,9 +18,9 @@ return(
     
    <div class='Home-Div'>
      <div>
-        <h1 class='Hello'> "About Section Under Construction" </h1>
-        <h3> Welcome to my Software Engineer Portfolio. </h3>
-        <p>Please remember to equipt your hard hat!</p>
+        <h1 class='Hello'> ABOUT </h1>
+        <h3> A little about me. </h3>
+        <p> Working on this section</p>
         <h4>This Site Is Under Construction</h4>    
       </div>
    </div>

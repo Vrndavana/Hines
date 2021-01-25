@@ -22,8 +22,8 @@ function Home() {
                 <div>
                  <h1 class='Hello'> "Hello World" </h1>
                  <h2>Dan Hines</h2>
-                 <h3> Welcome to my Software Engineer Portfolio. </h3>
-                 <p> Full-Stack Web Dev | Tech enthusiath   </p>
+                 <h3> Welcome to my Portfolio. </h3>
+                 <p> Full-Stack Web Dev | Software Engineer | Tech Enthusiast    </p>
 
 
                      {/* Projects inprogress uncomment lataer for public view */}

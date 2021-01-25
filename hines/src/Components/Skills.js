@@ -24,11 +24,11 @@ function Skills() {
         <div class="Sm">
           <Sidebar width={200} height={"90vh"}>
             <div class="Sb">
-          <button class="Side-Button">  <a href="#Software">         Software    </a> </button>
-          <button class="Side-Button">  <a href="#Front-End">        Front-End   </a> </button>
-          <button class="Side-Button">  <a href="#Back-End">         Back-End    </a> </button>
-          <button class="Side-Button">  <a href="#Audio">            Audio       </a> </button>
-          <button class="Side-Button">  <a href="#Hardware">         Hardware    </a> </button>
+             <button class="Side-Button">  <a href="#Software">         Software    </a> </button>
+             <button class="Side-Button">  <a href="#Front-End">        Front-End   </a> </button>
+             <button class="Side-Button">  <a href="#Back-End">         Back-End    </a> </button>
+             <button class="Side-Button">  <a href="#Audio">            Audio       </a> </button>
+             <button class="Side-Button">  <a href="#Hardware">         Peer    </a> </button>
            </div>
           </Sidebar>
         </div>
@@ -48,28 +48,28 @@ function Skills() {
           <div class="Sdiv">
            <h1 class='Skillz'> <a id="Front-End" href="Front-End"> Front-End </a> </h1>
            <h3> JavaSCript and Python </h3>
-           <p>Please remember to equipt your hard hat!</p>
+           <p> Previews Deplaying Shortly</p>
            <h4> Links and display underconstruction </h4>    
           </div>
 
           <div class="Sdiv">
            <h1 class='Skillz'> <a id="Back-End" href="Back-End"> Back-End </a> </h1>
            <h3> Postgres and Postman </h3>
-           <p>Please remember to equipt your hard hat!</p>
+           <p> Content coming soon</p>
            <h4> Links and display underconstruction </h4>       
           </div>
 
           <div class="Sdiv">
            <h1 class='Skillz'> <a id="Audio" href="Audio"> Audio </a> </h1>
            <h3> Ableton, Reason, FLS, Protools, Audacity  </h3>
-           <p>Please remember to equipt your hard hat!</p>
+           <p> Content coming soon </p>
            <h4> Links and display underconstruction </h4>       
           </div>
 
           <div class="Sdiv">
-           <h1 class='Skillz'> <a id="Hardware" href="Hardware"> Hardware </a> </h1>
-           <h3> Welcome to my Software Engineer Portfolio. </h3>
-           <p>Please remember to equipt your hard hat!</p>
+           <h1 class='Skillz'> <a id="Hardware" href="Hardware"> Peer N' Community </a> </h1>
+           <h3> Events and Social </h3>
+           <p> Content coming soon </p>
            <h4> Links and display underconstruction </h4>        
           </div>
          

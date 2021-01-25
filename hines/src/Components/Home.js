@@ -2,7 +2,7 @@ import React from 'react';
 import Me from '../Images/Me.jpg';
 import {Link} from 'react-router-dom';
 import {Nav} from '../Components/styled';
-import Projects from '../Components/Projects';
+// import Projects from '../Components/Projects';
 
 function Home() {
 

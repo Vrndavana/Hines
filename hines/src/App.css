@@ -151,17 +151,34 @@ margin: 0 0 1% 0;
   display:flex;
   background-color: rgb(231, 231, 231);
  }
+
+
 .S-Info{
+  margin:0 0;
   padding:0 0 0 10%;
+  box-sizing: border-box;
 }
+
+
 .Sdiv{
-  margin:10% 0 15% 0;
+  margin:10% 20% 0% 0;
   border-bottom: 1px solid grey;
+  box-sizing: border-box;
+
 }
+
+
+/* .Sp{
+  
+} */
+
+
+
 .Highlight{
   text-decoration: underline;
   background: chartreuse;
 }
+
 
 .links{
   width:100%;
@@ -171,6 +188,7 @@ margin: 0 0 1% 0;
   align-items:center; 
 }
 
+
 a{
   color:rgb(255, 255, 255);
   font-size: 1.2rem;
@@ -178,37 +196,49 @@ a{
   text-decoration: none;
 }
 
+
 .banner{
   padding-top: 5%;
   color:rgb(0, 0, 0);
   font-size:3rem;
 }
 
+
 /*  Skills Styles */
+
+
 #Software{
   color:black;
   font-size: 2rem;
   letter-spacing:2px;
   text-decoration: none;
 }
+
+
 #Front-End{
   color:black;
   font-size: 2rem;
   letter-spacing:2px;
   text-decoration: none;
 }
+
+
 #Back-End{
   color:black;
   font-size: 2rem;
   letter-spacing:2px;
   text-decoration: none;
 }
+
+
 #Audio{
   color:black;
   font-size: 2rem;
   letter-spacing:2px;
   text-decoration: none;
 }
+
+
 #Hardware{
   color:black;
   font-size: 2rem;
@@ -245,6 +275,7 @@ a{
   border-color: rgba(45, 49, 47, 0.693);
   border-left: 0;
   position: relative;
+  box-sizing: border-box;
 }
 
 .Side-Button{

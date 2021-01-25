@@ -8,12 +8,12 @@ function Home() {
     return(
 
         <div>
-           <Nav>
-             <Link to='/'>           HOME       </Link>
-             <Link to='/Skills'>     SKILLS     </Link>
-             <Link to='/Experience'> EXPERIENCE </Link>
-             <Link to='/About'>      ABOUT      </Link>
-           </Nav>
+            <Nav>
+             <Link to='/' >           <a href="" id="asd"> HOME      </a>      </Link>
+             <Link to='/Skills'>      <a href="" id="asd">SKILLS     </a>      </Link>
+             <Link to='/Experience'>  <a href="" id="asd">EXPERIENCE </a>      </Link>
+             <Link to='/About'>       <a href="" id="asd">ABOUT      </a>      </Link>
+            </Nav>
 
 
 
@@ -25,9 +25,12 @@ function Home() {
                  <h3> Welcome to my Software Engineer Portfolio. </h3>
                  <p> Full-Stack Web Dev | Tech enthusiath   </p>
 
-                    <button class="Project-Button">
+
+                     {/* Projects inprogress uncomment lataer for public view */}
+
+                    {/* <button class="Project-Button">
                      <Link to='/Projects'> Projects </Link>
-                    </button>
+                    </button> */}
                 </div>
 
             </div>

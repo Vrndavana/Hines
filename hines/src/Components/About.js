@@ -11,7 +11,7 @@ return(
         <Link to='/' >           <a href="" id="asd"> HOME      </a>      </Link>
         <Link to='/Skills'>      <a href="" id="asd">SKILLS     </a>      </Link>
         <Link to='/Experience'>  <a href="" id="asd">EXPERIENCE </a>      </Link>
-        <Link to='/About'>       <a href="" id="asd">ABOUT      </a>      </Link>
+        <Link to='/About'>       <a href="" id="sasd">ABOUT      </a>      </Link>
       </Nav>
     
     

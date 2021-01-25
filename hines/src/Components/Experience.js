@@ -17,7 +17,7 @@ function Experience() {
       
       
       
-     <div class='Home-Div'>
+     <div class='Home'>
        <div>
           <h1 class='Hello'> "Experience Section Coming Soon" </h1>
           <h3> Welcome to my Software Engineer Portfolio. </h3>

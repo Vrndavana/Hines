@@ -16,7 +16,7 @@ return(
     
     
     
-   <div class='Home-Div'>
+   <div class='Home'>
      <div>
         <h1 class='Hello'> ABOUT </h1>
         <h3> A little about me. </h3>

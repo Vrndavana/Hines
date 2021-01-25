@@ -1,20 +1,20 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
-import {Nav} from '../Components/styled';
+// import {Link} from 'react-router-dom';
+// import {Nav} from '../Components/styled';
 import Proj1 from '../Images/Proj1.png';
 import Proj2 from '../Images/Proj2.png';
 import Proj3 from '../Images/Proj3.png';
 function Projects() {
 
 return(
-<div>
+<div class="Projm">
 
-      <Nav>
+      {/* <Nav>
         <Link to='/' id="asd">           HOME           </Link>
         <Link to='/Skills'id="asd">     SKILLS    </Link>
         <Link to='/Experience'id="asd"> EXPERIENCE       </Link>
         <Link to='/About'id="asd">      ABOUT           </Link>
-      </Nav>
+      </Nav> */}
 
 
 

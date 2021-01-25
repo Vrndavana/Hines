@@ -308,4 +308,15 @@ a{
 #sasd{
   color:rgb(143, 145, 153);
 }
+
+.BasePlate{
+  border: black;
+  background-color: rgba(105, 105, 105, 0.788);
+  border-radius: 5%;
+  padding: 3% 5%;
+  width:30%;
+  height: 30vh;
+
+
+}
  /*   _____--------_____------ >>>>       MAIN SCROLLING BAR ON SKILLS PAGE HIDDEN ON INDEX.CSS       <<<<_____--------_____------ */

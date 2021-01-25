@@ -10,10 +10,10 @@ return(
 <div>
 
       <Nav>
-        <Link to='/' >           <a id="asd"> HOME      </a>      </Link>
-        <Link to='/Skills'>      <a id="asd">SKILLS     </a>      </Link>
-        <Link to='/Experience'>  <a id="asd">EXPERIENCE </a>      </Link>
-        <Link to='/About'>       <a id="asd">ABOUT      </a>      </Link>
+        <Link to='/' id="asd">           HOME           </Link>
+        <Link to='/Skills'id="asd">     SKILLS    </Link>
+        <Link to='/Experience'id="asd"> EXPERIENCE       </Link>
+        <Link to='/About'id="asd">      ABOUT           </Link>
       </Nav>
 
 

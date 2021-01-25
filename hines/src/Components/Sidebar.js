@@ -17,23 +17,14 @@ export const Sidebar = ({ width, height, children }) => {
   }, []);
   return (
     <React.Fragment>
-      <div
-        className="side-bar"
-        style={{
-          transform: `translatex(${xPosition}px`,
-          width: width,
-          minHeight: height
-        }}
-      >
-        <button
-          onClick={() => toggleMenu()}
-          className="toggle-menu"
-          style={{
-            transform: `translate(${width}px, 20vh`
-          }}
-        ></button>
-        <div className="content">{children}</div>
+
+      <div className="side-bar" style={ {transform: `translatex(${xPosition}px`, width: width, minHeight: height} }> 
+
+        <button onClick={() => toggleMenu()} className="toggle-menu" style={ { transform: `translate(${width}px, 50vh`} }/> 
+        <div className="content">  {children} </div>
+
       </div>
+
     </React.Fragment>
   );
   

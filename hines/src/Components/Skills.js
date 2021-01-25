@@ -22,16 +22,18 @@ function Skills() {
 
 
         <div class="Sm">
-          <Sidebar width={200} height={"100vh"}>
+          <Sidebar width={200} height={"90vh"}>
+            <div class="Sb">
           <button class="Side-Button">  <a href="#Software">         Software    </a> </button>
           <button class="Side-Button">  <a href="#Front-End">        Front-End   </a> </button>
           <button class="Side-Button">  <a href="#Back-End">         Back-End    </a> </button>
           <button class="Side-Button">  <a href="#Audio">            Audio       </a> </button>
           <button class="Side-Button">  <a href="#Hardware">         Hardware    </a> </button>
+           </div>
           </Sidebar>
         </div>
 
-        <div class="S-Info">
+        <div class="S-Info" >
 
           <div class="Sdiv">
            <h1 class='Skillz'> <a id="Software" href="Software"> Software </a> </h1>

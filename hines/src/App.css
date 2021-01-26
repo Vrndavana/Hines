@@ -99,7 +99,8 @@
  }
  .PROJ{
    height:30vh;
-   width: 100%;
+   width: 95%;
+   margin:auto;
    display: flex;
    flex-direction: column;
    justify-content: center;
@@ -243,7 +244,7 @@ a{
   border-right: 1px solid;
   border-radius: 0;
   border-color: rgba(61, 63, 62, 0.693);
-  background-color: rgb(255, 255, 255);
+  background-color: rgba(255, 255, 255, 0.705);
   transition: 0.8s ease;
   position: -webkit-sticky;
   position: sticky;
@@ -347,7 +348,7 @@ a{
   cursor: pointer;
   outline: none;
   color: rgb(185, 185, 185);
-  background-color: #7d7d7eaf;
+  background-color: #7d7d7ec4;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px rgb(48, 46, 46);

@@ -9,10 +9,10 @@ function Skills() {
     <div>
 
       <Nav>
-        <Link to='/' id="asd" >           HOME         </Link>
-        <Link to='/Skills' id="sasd">   SKILLS        </Link>
-        <Link to='/Experience' id="asd"> EXPERIENCE       </Link>
-        <Link to='/About' id="asd">      ABOUT          </Link>
+        <Link to='/' id="asd" >          HOME         </Link>
+        <Link to='/Skills' id="sasd">    SKILLS       </Link>
+        <Link to='/Experience' id="asd"> EXPERIENCE   </Link>
+        <Link to='/About' id="asd">      ABOUT        </Link>
       </Nav>
 
  
@@ -28,7 +28,7 @@ function Skills() {
              <button class="Side-Button">  <a href="#Front-End">        Front-End   </a> </button>
              <button class="Side-Button">  <a href="#Back-End">         Back-End    </a> </button>
              <button class="Side-Button">  <a href="#Audio">            Audio       </a> </button>
-             <button class="Side-Button">  <a href="#Hardware">         Peer    </a> </button>
+             <button class="Side-Button">  <a href="#Hardware">         Peer        </a> </button>
            </div>
           </Sidebar>
         </div>

@@ -48,7 +48,7 @@ function Skills() {
           <div class="Sdiv">
            <h1 class='Skillz'> <a id="Front-End" href="Front-End"> Front-End </a> </h1>
            <h3> JavaSCript and Python </h3>
-           <p> Previews Deplaying Shortly</p>
+           <p> Content coming soon</p>
            <h4> Links and display underconstruction </h4>    
           </div>
 

@@ -25,6 +25,35 @@ return(
     
     <div class="Flex">
 
+
+
+    <div class='Proj'>
+      <img src={JRP} alt="JRP Electric" className='Pix'/>
+      <div class="ProjI">
+       <h2 class="ProjIH"> JRP Electric Inc </h2>
+       <span> JS | HTML | CSS </span>
+       <p> JRP Electric builds the structured wiring needed for foundations.
+         This site has recently been contracted to me for updated and fixing, 
+         using a combination of JavaScript and Wordpress coding.
+       </p>
+       <span> Checkout JRP </span>
+
+       <section class ="Proj-Buttons"> 
+
+  
+        <button><a id="JrpButton" href="http://www.jrpelectric.net"> Visit JRP </a></button>
+   
+
+        {/* <button> Github </button>
+        <button> Learn More </button>
+        <button> Visit Site </button>   */}
+       </section>
+      </div>
+    </div>
+
+
+
+
     <div class='Proj'>
       <img src={Proj1} alt="Game of Life" className='Pix'/>
       <div class="ProjI">
@@ -116,23 +145,7 @@ return(
       </div>
     </div>
 
-    <div class='Proj'>
-      <img src={JRP} alt="JRP Electric" className='Pix'/>
-      <div class="ProjI">
-       <h2 class="ProjIH"> JRP Electric Inc </h2>
-       <span> JS | HTML | CSS </span>
-       <p> JRP Electric builds the structured wiring needed for foundations.
-         This site has recently been contracted to me for updated and fixing, 
-         using a combination of JavaScript and Wordpress coding.
-       </p>
-       <span>(Direct link under construction)</span>
-       <section class ="Proj-Buttons"> 
-        {/* <button> Github </button>
-        <button> Learn More </button>
-        <button> Visit Site </button>   */}
-       </section>
-      </div>
-    </div>
+
     
  
 

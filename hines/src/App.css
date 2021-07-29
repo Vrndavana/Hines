@@ -107,6 +107,10 @@
 background-color: #504e4ec5;
  }
 
+ #JrpButton{
+   color: #2c2b2b;
+ }
+
  /* Project Information */
 .ProjI{
   padding:0 5%;

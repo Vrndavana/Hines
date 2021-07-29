@@ -41,7 +41,7 @@ return(
        <section class ="Proj-Buttons"> 
 
   
-        <button><a id="JrpButton" href="http://www.jrpelectric.net"> Visit JRP </a></button>
+        <a id="JrpButton" href="http://www.jrpelectric.net"> Visit JRP </a>
    
 
         {/* <button> Github </button>

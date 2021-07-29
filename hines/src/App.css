@@ -108,7 +108,9 @@ background-color: #504e4ec5;
  }
 
  #JrpButton{
-   color: #2c2b2b;
+   color: #c2bdbd;
+   background-color: #525358;
+   padding: 1% 1%;
  }
 
  /* Project Information */

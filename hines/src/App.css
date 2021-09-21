@@ -314,6 +314,10 @@ a{
   background-color: rgba(245, 245, 245, 0.884);
   padding: 3% 2%;
 }
+.Sdiv p:hover{
+  border-bottom: 1px solid rgba(131, 128, 128, 0.733);
+  background-color: rgba(182, 185, 182, 0.884);
+}
 
 .Sm{
   height: 80hv;

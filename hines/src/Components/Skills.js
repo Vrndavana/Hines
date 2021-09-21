@@ -38,9 +38,14 @@ function Skills() {
           <div class="Sdiv">
            <h1 class='Skillz'> <a id="Software" href="Software"> Software </a> </h1>
            <h3> JavaScript, Python, and More   </h3>
-           <p class="Sp">  In the more recent years I have spent my time honing the skills of computer technologies such as JavaScript and Python to create websites, apps, databases, and games. 
-                In my earlier years I've focused much of my time to learning audio, video, editting and graphic work; Seeing my passions continiously bring me to working in D.Ws  (Digital Workstations)
-                  a path in software came naturally as my curiosity of how these softwares I worked in for years, worked.   </p>
+           <p class="Sp">  In the more recent years I have spent my time honing the skills
+            of computer technologies such as JavaScript and Python to create websites, apps,
+             databases, and games. 
+                In my earlier years I've focused much of my time to learning audio, video, 
+                editting and graphic work; Seeing my passions continiously bring me to working in D.Ws 
+                 (Digital Workstations)
+                  a path in software came naturally as my curiosity of how these softwares I worked 
+                  in for years, worked.   </p>
            <p> Here you can find a collection of things I work on</p>       
            <h4> Links and display underconstruction </h4>    
           </div>

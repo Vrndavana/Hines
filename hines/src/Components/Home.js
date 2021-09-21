@@ -22,19 +22,20 @@ function Home() {
 
                 <img src={Me} alt="A handsome chap" className='Me'/>
                 
-
                 <div class="Base">
-                <div class="BasePlate">
-                 <h1 class='Hello'> "Hello World" </h1>
-                 <h2>Mr.Hines</h2>
-                 <h3> Welcome to my Portfolio. </h3>
-                 <p> Full-Stack Web Dev | Software Engineer | Tech Enthusiast </p>
-                </div>
+                    <div class="BasePlate">
+                     <h1 class='Hello'> "Hello World" </h1>
+                     <h2>Mr.Hines</h2>
+                     <h3> Welcome to my Portfolio. </h3>
+                     <p> Full-Stack Web Dev | Software Engineer | Tech Enthusiast </p>
+                     <p>https://www.linkedin.com/in/vrndavana-hines/</p>
+                     <p>https://github.com/Vrndavana</p>
+                     <p> https://www.twitch.tv/l0t1z </p>
+                    </div>
 
-
-                <div class="Basebutt">
-                 <button class="button">  <a href="#Basement"> <span> Projects </span> </a>  </button>
-                </div>
+                    <div class="Basebutt">
+                     <button class="button">  <a href="#Basement"> <span> Projects </span> </a>  </button>
+                    </div>
 
                 </div>
 
@@ -46,9 +47,8 @@ function Home() {
 
                 <div class=" PROJ">
                  <h1 id="Basement" href="Basement"> Projects </h1>  
-               
                 </div>
-  <Projects/> 
+                <Projects/> 
   
             </section>
 
